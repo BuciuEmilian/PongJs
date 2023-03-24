@@ -1,2 +1,1 @@
-# PongJs
-A Pong (classic game) clone
+A Pong clone created using p5.js library.
