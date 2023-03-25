@@ -6,4 +6,4 @@ Controls:
 
 Player1 (left): w/s 
 
-Player2 (right): up arrow/dow arrow
+Player2 (right): up arrow/down arrow
